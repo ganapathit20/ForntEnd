@@ -1,0 +1,34 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.nav{
+
+    width: auto;
+    height: 75px;
+    background-color:aquamarine;
+
+}
+#img{
+    float: left;
+    padding: 10px;
+
+}
+
+#search{
+    float: right;
+    padding: 20px;
+    font-size: 20px;
+}
+
+#list li{
+    font-size: 20px;
+    margin: 20px;
+    display: inline;
+    float: right;
+}
+
+a:hover {
+    color: brown;
+  }
